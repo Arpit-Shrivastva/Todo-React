@@ -6,6 +6,8 @@ The Todo app built with React provides a streamlined platform for managing tasks
 
 React Js, Tailwind, React Icons, Hooks, Vite Js
 
+# Port - http://localhost:5173/
+
 
 # React + Vite
 
