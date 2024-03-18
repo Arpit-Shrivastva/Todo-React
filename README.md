@@ -4,6 +4,8 @@ The Todo app built with React provides a streamlined platform for managing tasks
 
 # Tech
 
+React Js, Tailwind, React Icons, Hooks, Vite Js
+
 
 # React + Vite
 
